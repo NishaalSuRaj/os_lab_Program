@@ -1,6 +1,6 @@
 /*
  * Program to write a set of numbers into a pipe by parent process
-                and child data fron pipe and write numbers into another pipe
+                and child data from pipe and write numbers into another pipe
  */
 
 #include<stdio.h>
